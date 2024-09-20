@@ -1,8 +1,9 @@
 ## Hi there 👋
 I am quanicetea who come from Planet Namek
-# 💫About Me :
+## 💫About Me :
 🔭 I’m currently working on Apps Cyclone Technology JSC.
-
+## Hire Me :
+quanicetea@gmail.com
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/quanicetea) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/quanicetea4696) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/quanicetea) 
